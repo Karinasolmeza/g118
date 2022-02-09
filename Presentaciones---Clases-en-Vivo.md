@@ -4,4 +4,8 @@
 * Clase 4: [Typescript (POO)](https://drive.google.com/file/d/1YRQexjea_8JNODEoJk2nsPaGHR9bxBLF/view?usp=sharing)
 * Clase 5: [Introducción a Angular (Componentes, Servicios, Data Binding)](https://drive.google.com/file/d/1xqb6_MKzkfpc-pSqfy1oHWCT8UoyXNGc/view?usp=sharing)
 * Clase 6: [Angular: Directivas, Modales, Formularios Reactivos, Validaciones](https://drive.google.com/file/d/1gieCnI8I4CSTRIvbsfawlkkvJeJCLMLi/view?usp=sharing)
+* Clase 7: [Base de  Datos](https://drive.google.com/file/d/12oi0xNOArp4sy5eAvC2ksZdmnZ-Msbho/view?usp=sharing)
+> Links compartidos en clase:
+> * Servidor de pruebas json: https://www.npmjs.com/package/json-server
+> * Tipos de Datos en  MySql: https://desarrolloweb.com/articulos/1054.php
 
