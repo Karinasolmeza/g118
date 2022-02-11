@@ -9,3 +9,6 @@
 > * Servidor de pruebas json: https://www.npmjs.com/package/json-server
 > * Tipos de Datos en  MySql: https://desarrolloweb.com/articulos/1054.php
 
+# Respuestas a preguntas planteadas en clase
+1. ¿Cómo  puedo enviar imágenes al servidor? Tienen varias opciones, entre ellas (porque hay más formas de trabajarlo): 1- Enviando la imagen a la api (nosotros vamos a usar spring boot. Les dejo un link: https://www.bezkoder.com/angular-spring-boot-file-upload/)  2- Usando un servidor de imágenes. Ej Firebases (les dejo un  link: https://www.youtube.com/watch?v=xj4ZuJAJtj0)
+
