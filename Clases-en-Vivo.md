@@ -9,6 +9,9 @@
 > Links compartidos en clase:
 > * Servidor de pruebas json: https://www.npmjs.com/package/json-server
 > * Tipos de Datos en  MySql: https://desarrolloweb.com/articulos/1054.php
+* Clase 8: [Conceptos de POO en Java](https://drive.google.com/file/d/1x25zPrTYwxOyCQcfpWDqiBeMGjS7EbLo/view?usp=sharing)
+> Links compartidos en clase:
+> * (UML) Diagrama de Clases Ejemplo: https://drive.google.com/file/d/1P8RTJWRI5YN8JaPWw6aCPE3NjlQy4qz9/view?usp=sharing
 
 # Respuestas a preguntas planteadas en clase
 1. **¿Cómo  puedo enviar imágenes al servidor?** Hay muchas opciones,   entre  ellas: 1- Enviando la imagen a la api. Nosotros vamos a usar spring boot. (les dejo un link: https://www.bezkoder.com/angular-spring-boot-file-upload/)  2- Usando un servidor de imágenes. Ej Firebase (les dejo un  link: https://www.youtube.com/watch?v=xj4ZuJAJtj0)
