@@ -20,6 +20,7 @@
 > Links compartidos en clase:
 > * Query Methods: https://docs.spring.io/spring-data/jpa/docs/current/reference/html/#repositories.query-methods.details
 > * Query Methods Keywords: https://docs.spring.io/spring-data/jpa/docs/current/reference/html/#repository-query-keywords
+* Clase 12: De Consultas
 
 # Respuestas a preguntas planteadas en clase
 1. **¿Cómo  puedo enviar imágenes al servidor?** Hay muchas opciones,   entre  ellas: 1- Enviando la imagen a la api. Nosotros vamos a usar spring boot. (les dejo un link: https://www.bezkoder.com/angular-spring-boot-file-upload/)  2- Usando un servidor de imágenes. Ej Firebase (les dejo un  link: https://www.youtube.com/watch?v=xj4ZuJAJtj0)
